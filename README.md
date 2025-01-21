@@ -16,6 +16,4 @@ Check out the live site: [Premier League 2022/23 Stats Comparison](https://willh
 
 ## API Documentation
 
-Our API allows you to access player data programmatically. Here’s how to get started:
-
-### Base URL
+Our API allows you to access player data programmatically.
